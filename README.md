@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moominzie call me Jennie!
+- 👋 Hi, I’m @moominzie call me Jam!
 - 👀 I’m interested in React Golang✨
 - 📚 I’m currently study Computer Engineer  
 
